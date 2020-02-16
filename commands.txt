@@ -1,0 +1,5 @@
+% minikube status     
+minikube start
+kubectl apply -f pod.yaml
+kubectl apply -f webapp-service.yaml
+ kubectl get all    
