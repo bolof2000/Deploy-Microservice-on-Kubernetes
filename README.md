@@ -2,8 +2,8 @@
 
 <h2>Commands:</h2>
 <u1>
-<l1>minikube status  -- Check Minikube status</l1>
-<l1>minikube start --- Start Minikube</l1>
+<p>minikube status  -- Check Minikube status</p>
+<p>minikube start --- Start Minikube</p>
 <l1>kubectl apply -f podfile.yaml -- apply changes to the pod files</l1>
 <l1>kubectl apply -f webapp-service.yaml  -- apply changes to the service </l1>
  <l1>kubectl get all -- check running pods </l1>
