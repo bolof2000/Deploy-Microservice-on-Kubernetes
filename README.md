@@ -10,3 +10,6 @@
  <p>kubctl get pods -- get list of pods</p>
  <p>kubctl get po --show-labels - show each labels in the pod</p>
  <p>kubctil get po --show-labels -l release=0  - get a specific release in a pod</p>
+ <p>kubectl delete po -- delete a pod </p>
+ 
+
